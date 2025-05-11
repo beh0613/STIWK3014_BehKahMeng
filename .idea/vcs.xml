@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/IssueCounter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleThreads" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestSleep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tutorial7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tutorial8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week6Tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/startThreading" vcs="Git" />
+  </component>
+</project>
