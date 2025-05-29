@@ -52,48 +52,7 @@ public class BankAccountWithLock {
         }
     }
 
-    public static void main(String[] args) {
-        BankAccountWithLock account = new BankAccountWithLock(1000);
 
-        // Create multiple readers
-        for (int i = 1; i <= 3; i++) { // 3 reader threads
-            int readerId = i;
-            Thread reader = new Thread(() -> {
-                for (int j = 0; j < 5; j++) {
-                    account.getBalance();
-                    sleep(1000);
-                }
-            }, "Reader-" + readerId);
-            reader.start();
-        }
-
-        // Single depositor
-        Thread depositor = new Thread(() -> {
-            for (int i = 0; i < 5; i++) {
-                account.deposit(100);
-                sleep(1500);
-            }
-        }, "Depositor");
-        depositor.start();
-
-        // Single withdrawer
-        Thread withdrawer = new Thread(() -> {
-            for (int i = 0; i < 5; i++) {
-                account.withdraw(50);
-                sleep(2000);
-            }
-        }, "Withdrawer");
-        withdrawer.start();
-    }
-
-    // Helper method to sleep safely
-    private static void sleep(long ms) {
-        try {
-            Thread.sleep(ms);
-        } catch (InterruptedException e) {
-            Thread.currentThread().interrupt();
-        }
-    }
 
 }
 
