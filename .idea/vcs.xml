@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ConcurrencyCollection" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SimpleThreads" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TestSleep" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Tutorial7" vcs="Git" />
