@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0954c62a-e316-47f1-a2ad-1c6e982cba2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tutorial12_RecursiveTask/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial12_RecursiveTask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial12_RecursiveTask/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial12_RecursiveTask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial12_RecursiveTask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial12_RecursiveTask/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial12_RecursiveTask/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial12_RecursiveTask/src/main/java/org/example/FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tutorial12_RecursiveTask/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casestudy1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casestudy1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casestudy1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casestudy1/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casestudy1/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentLoginTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorial11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week6Tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6Tutorial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../startThreading" beforeDir="false" afterPath="$PROJECT_DIR$/../startThreading" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "beh0613"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/beh0613/STIWK3014_BehKahMeng.git",
+    "accountId": "087b3e19-7d18-48a0-8ea0-ef0083d65827"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2yldmr3Jm3s5iKKCiom1Bv2pkdr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.StudentLoginTracker.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0954c62a-e316-47f1-a2ad-1c6e982cba2e" name="Changes" comment="" />
+      <created>1750413259033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750413259033</updated>
+    </task>
+    <servers />
+  </component>
+</project>
